@@ -1357,3 +1357,13 @@ input, select, textarea {
 #contactForm *{
 	color: white;
 }
+
+#contactForm h2{
+	text-align: center;
+}
+#contactForm .field{
+	padding: 0 5% 0 5%;
+}
+#contactForm ul{
+	padding: 0 5% 0 5%;
+}
