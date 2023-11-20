@@ -1352,3 +1352,8 @@ input, select, textarea {
 				}
 
 		}
+
+/* Contact Form */
+#contactForm *{
+	color: white;
+}
